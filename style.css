@@ -1,0 +1,35 @@
+body{
+    font-family: 'Edu TAS Beginner', cursive;
+    background:pink
+}
+
+.header_div
+{
+background:rgb(240, 243, 188);
+color: white;
+}
+.header_div p{
+font-family:fantasy;
+color: gray;
+letter-spacing: 0px;
+font-size: 12px;
+font: weight 100px;;
+}
+.main_div button{
+    font-family: fantasy;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position:fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
